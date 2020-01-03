@@ -1,0 +1,28 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.col-12{
+    padding-left:0;
+}
+
+.pickUsers{
+    margin-top:10px;
+}
+
+#status{
+    padding:2px;
+}
+
+#title{
+    margin-top:20px;
+}
+
+#resultAdd{
+    padding-left:0;
+}
